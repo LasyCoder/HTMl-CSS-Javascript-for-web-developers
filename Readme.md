@@ -51,4 +51,4 @@ In this module, we are going to take all those newly learned Javascript language
 - **[For more Detail](https://github.com/LasyCoder/HTMl-CSS-Javascript-for-web-developers/module5/)**
 
 
-#### For My Certificate [Click Here](https://coursera.org/share/d825f15f819a0984b468dff374255174)
+#### To View My Certificate [Click Here](https://coursera.org/share/d825f15f819a0984b468dff374255174)
